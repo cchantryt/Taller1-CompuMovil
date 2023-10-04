@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">taller1</string>
+    <string name="countries">Countries</string>
+    <string name="taller_1">Taller 1</string>
+    <string name="guess_game">Guess Game</string>
+    <string name="random_greet">Random Greet</string>
+    <string name="rangoNum">0-1000</string>
+    <string name="hola">Hola usuario</string>
+    <string name="holaF">bonjour utilisateur</string>
+    <string name="holaE">Hello user</string>
+    <string name="holaI">ciao utente</string>
+
+
+    <string name="selected_item">Selected item:</string>
+    <string-array name="Languages">
+        <item>Español</item>
+        <item>English</item>
+        <item>Italiano</item>
+        <item>Français</item>
+    </string-array>
+</resources>
